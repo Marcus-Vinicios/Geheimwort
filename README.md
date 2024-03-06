@@ -11,4 +11,4 @@ Durante o desenvolvimento foi utilizado:
 - CSS
 
 ## Link do jogo
-Você pode testar o jogo no seguinte link: [Geheimwort](geheimwort.vercel.app)
+Você pode testar o jogo no seguinte link: [Geheimwort](https://geheimwort.vercel.app/)
