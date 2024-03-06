@@ -9,3 +9,6 @@ Durante o desenvolvimento foi utilizado:
 - Vite
 - Tailwindcss
 - CSS
+
+## Link do jogo
+Você pode testar o jogo no seguinte link: [Geheimwort](geheimwort.vercel.app)
